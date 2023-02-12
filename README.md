@@ -2,7 +2,7 @@
 这是一个售卖茶叶的网站（移动端兼容）
 
 技术栈：
-vue、vue-cli、vue-router、vuex、axios、express、mysql、ui插件（mintui、vant）
+vue、vue-cli、vue-router、vuex、axios、express、mysql、ui框架/插件（swiper、better-scroll、mintui、vant..）
 
 ## Project setup
 ```
